@@ -15,5 +15,5 @@ The purpose of this analysis is to use data visualiztions to answer a set of que
 - The final story point shows a heat map of which individual bikes are used most often. This information can be useful in determining which bikes may need maintanence
 
 ## Summary
-In summary, the visualizations have showed us the time that most people would like to ride, and that men are the biggest customers which many be important in marketing and understanding customers. Two additional visualiztions that we may suggest can be one to answer the question of how many subscribers are men and how many are women, and another visualization to answer the question of which routes are most taken by customers (i.e, staring and ending locations) 
+In summary, the visualizations have showed us the time that most people would like to ride, and that men are the biggest customers which may be important in marketing and understanding customers. Two additional visualiztions that we may suggest can be one to answer the question of how many subscribers are men and how many are women, and another visualization to answer the question of which routes are most taken by customers (i.e, staring and ending locations) 
 
